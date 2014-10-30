@@ -3,4 +3,4 @@
 // license that can be found in the LICENSE file.
 
 // Package json provides a JSON scanner and writer.
-package json
+package json // import "github.com/garyburd/json"
